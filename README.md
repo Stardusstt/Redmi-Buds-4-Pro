@@ -1,1 +1,1 @@
-# Redmi-Buds-4-Pro
+# Firmwares for Redmi Buds 4 Pro
